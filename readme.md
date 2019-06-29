@@ -1,4 +1,5 @@
-Códigos utilizados para geração de poemas
-Resultados obtidos em cada notebook, cada um com seus respectivos parametros
-Dataset utilizado https://github.com/poetizer/sonet-dataset/
+#Códigos utilizados para geração de poemas
+
+## Resultados obtidos em cada notebook bem como cada um de seus respectivos parâmetros
+## Dataset utilizado https://github.com/poetizer/sonet-dataset/
 
