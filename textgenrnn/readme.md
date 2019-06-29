@@ -12,5 +12,5 @@ número de camadas: num-layers 3
 número de neurônios: rnn-size 256
 número de épocas: num-epochs 50
 
-![](caminho até a imagem)
+![](https://github.com/poetizer/notebooks/blob/master/textgenrnn/imagens/rede2.png?raw=true)
 
